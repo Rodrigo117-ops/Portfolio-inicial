@@ -56,7 +56,7 @@ O projeto ficará disponível em `http://localhost:5173/`.
 
 Após publicar o projeto (por exemplo, na Vercel), adicione aqui o link:
 
-`https://SEU-LINK-DO-DEPLOY.vercel.app`
+`https://portfolio-rodrigo-theta.vercel.app/`
 
 Passos gerais (Vercel):
 
