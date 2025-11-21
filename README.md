@@ -50,13 +50,16 @@ npm run dev
 
 O projeto ficará disponível em `http://localhost:5173/`.
 
----
+----
+
 
 ## ☁️ Deploy / Versão online
 
-Após publicar o projeto (por exemplo, na Vercel), adicione aqui o link:
+☁️ Deploy / Versão Online
+🔗 Acesse o portfólio online:
 
-`https://portfolio-rodrigo-theta.vercel.app`
+
+👉 https://primeiro-portfolio-vert.vercel.app/
 
 Passos gerais (Vercel):
 
@@ -66,4 +69,5 @@ Passos gerais (Vercel):
 4. Concluir o deploy e copiar a URL gerada.
 5. Adicionar essa URL no README.
 
----
+-------------
+
