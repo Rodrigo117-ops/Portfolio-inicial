@@ -4,8 +4,18 @@ import styles from "../App.module.css";
 const ProjectCard = ({ project }) => {
   return (
     <article className={styles.projectCard}>
-      <div className={styles.projectImagePlaceholder}>
-        <span>{project.title[0]}</span>
+      <div className={styles.projectImageWrapper}>
+        {project.imageUrl ? (
+          <img
+            src={project.imageUrl}
+            alt={project.imageAlt}
+            className={styles.projectImage}
+          />
+        ) : (
+          <div className={styles.projectImagePlaceholder}>
+            <span>{project.title[0]}</span>
+          </div>
+        )}
       </div>
 
       <div className={styles.projectContent}>
