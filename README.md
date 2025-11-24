@@ -60,7 +60,7 @@ O projeto ficará disponível em `http://localhost:5173/`.
 🔗 Acesse o portfólio online:
 
 
-👉 https://primeiro-portfolio-vert.vercel.app/
+👉 https://portfolio-inicial-iota.vercel.app/
 
 Passos gerais (Vercel):
 
