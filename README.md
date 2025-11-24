@@ -42,10 +42,11 @@ Portfólio desenvolvido em React para apresentar meus principais projetos, habil
 ## 💻 Como rodar o projeto localmente
 
 ```bash
-git clone https://github.com/SEU-USUARIO/portfolio-rodrigo.git
-cd portfolio-rodrigo
+git clone https://github.com/Rodrigo117-ops/Portfolio-inicial.git
+cd Portfolio-inicial
 npm install
 npm run dev
+
 ```
 
 O projeto ficará disponível em `http://localhost:5173/`.
